@@ -8,13 +8,17 @@
 - 시연 기준으로 작성된 코드입니다.
 - 현재 디벨롭 작업 중에 있으며 추후 해당 README 파일은 수정 될 예정입니다.
 
+
+
 ## 2. 개발 환경
 
 - Unity 2022.3.60f1 LTS
 - C#
 - Window 10
 
-## 2. 기능
+
+
+## 3. 기능
 
 - **플레이어 이동**: 방향키를 이용해 플레이어가 플랫포머 형식으로 이동하도록 구현.
 - **해킹 카메라**: Cinemachine Virtual Camera를 활용하여 좌, 우 방향키 입력 시 선택 된 객체에 따른 카메라 움직임 구현현.
@@ -25,7 +29,9 @@
 - **Enemy AI**: FSM을 이용하여 적 캐릭터들이 플레이어를 추적하고 공격하는 AI 구현.
 - **거리 기반 렌더링**: MeshRenderer 비활성화를 통한 거리 기반 렌더링 최적화
 
-## 3. 기술 스택
+
+
+## 4. 기술 스택
 
 - **Unity**: 게임 개발 엔진
 - **C#**: 게임 로직 및 스크립트 작성
@@ -40,7 +46,9 @@
 - **Baked Lightmap**: Radiant Volume으로 인한 성능 저하를 위해 배경 Object에 베이킹 처리
 - **Cinemachine Virtual Camera**: 플레이어 및 해킹 시 카메라 이동 구현, 카메라 흔들림 효과 구현
 
-## 4. License
+
+
+## 5. License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 
