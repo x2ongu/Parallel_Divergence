@@ -11,8 +11,8 @@
 - 시연 기준으로 작성된 코드입니다.
   
 - 현재 디벨롭 작업 중에 있으며 추후 해당 README 파일은 수정 될 예정입니다.
-
-
+- 
+<br><br><br>
 ## 2. 개발 환경
 
 - Unity 2022.3.60f1 LTS
@@ -21,7 +21,7 @@
   
 - Window 10
 
-
+<br><br><br>
 ## 3. 기능
 
 - **플레이어 이동**: 방향키를 이용해 플레이어가 플랫포머 형식으로 이동하도록 구현.
@@ -40,7 +40,7 @@
   
 - **거리 기반 렌더링**: MeshRenderer 비활성화를 통한 거리 기반 렌더링 최적화
 
-
+<br><br><br>
 ## 4. 기술 스택
 
 - **Unity**: 게임 개발 엔진
@@ -67,8 +67,19 @@
   
 - **Cinemachine Virtual Camera**: 플레이어 및 해킹 시 카메라 이동 구현, 카메라 흔들림 효과 구현
 
+<br><br><br>
+## 5. 설치 및 실행 방법
+1. [게임 실행 파일 다운로드](https://drive.google.com/drive/folders/1QygPo52y0TPllSDVahST_C7E8gCYdTm4)
+2. `Parallel_Divergence_시연.zip` 파일을 압축 해제합니다.
+3. `TeamProject_VS.exe` 파일을 실행하여 게임을 시작합니다.
 
-## 5. License
+<br><br><br>
+## 6. 영상 링크
+1. [유튜브 시연 영상](https://youtu.be/ieOsy1KRgUU)
+2. [유튜브 베타 테스트 영상](https://youtu.be/EvxuqcQSgqU): 시연 영상 전 버전입니다.
+
+<br><br><br>
+## 7. License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
 
